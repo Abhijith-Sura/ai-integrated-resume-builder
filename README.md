@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your AI-integrared-resume-builder project
 
 ## Project info
 
